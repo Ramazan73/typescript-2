@@ -17,7 +17,9 @@
     "url": "https://github.com/Ramazan73/typescript/issues"
   },
   "homepage": "https://github.com/Ramazan73/typescript#readme",
-  "dependencies": {},
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
   "devDependencies": {
     "typescript": "^5.0.4",
     "tsc-watch": "^6.0.0"
